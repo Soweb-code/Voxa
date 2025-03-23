@@ -34,13 +34,6 @@ header {
     letter-spacing: 2px;
 }
 
-body {
-    background: url('wallpaper.jpg') no-repeat center center fixed;
-    background-size: cover;
-    color: #ffffff;
-    text-align: center;
-    line-height: 1.6;
-}
 
 /* Navigation */
 nav ul {
